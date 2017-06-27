@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: erte child pages
-Plugin URI:  https://
+Plugin URI:  https://er
 Description: Schow child pages
 Version:     
 Author:      eRTe
